@@ -85,7 +85,9 @@ else:
     print("Wrong pin please try again")
   
 
-  #         or          #
+  #                             or                          #
+  #      Another code for ATM to increase readability       #
+
 
 import time
 def atm_menu():
