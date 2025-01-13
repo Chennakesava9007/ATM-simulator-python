@@ -1,5 +1,4 @@
 # ATM
-ATM python code
 import time
 def atm_menu():
     return ("============ATM MENU============"
